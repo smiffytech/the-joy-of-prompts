@@ -1,2 +1,5 @@
-# the-joy-of-prompts
-The Joy of Prompts - Conversations with an LLM *or* Consorting With Demons in the C21st
+# The Joy of Prompts - Conversations with an LLM
+
+<center>*or*</center>
+
+**Consorting With Demons in the 21st Century**
